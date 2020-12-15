@@ -3162,6 +3162,7 @@ blockquote footer cite:before {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+  background-color: rgba(0,0,0,0.1);
 }
 #footer-wrap {
   position: relative;
